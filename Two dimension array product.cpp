@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-
+int z;
 int num[2][3]={{2,4,5},{3,6,7}};
 int temp[2][3]={{10,20,30},{90,470,27}};
 int pro[2][3];
